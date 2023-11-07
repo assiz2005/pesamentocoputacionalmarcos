@@ -1,1 +1,1 @@
-# pesamentocomputacionalmarcos
+# pensamentocomputacionalmarcos
